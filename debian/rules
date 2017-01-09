@@ -1,0 +1,5 @@
+#!/usr/bin/make -f
+export PYBUILD_NAME = crmngr
+export PYBUILD_DISABLE_python3=test 
+%:
+	dh $@ --with python3 --buildsystem=pybuild

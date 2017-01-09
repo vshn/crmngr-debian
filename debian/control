@@ -1,0 +1,14 @@
+Source: crmngr
+Maintainer: André Keller <andre.keller@vshn.ch>
+Section: python
+Priority: optional
+Build-Depends: debhelper (>= 9), dh-python, python3-setuptools, python3-all, python3-requests, python3-natsort
+Standards-Version: 3.9.7
+X-Python3-Version: >= 3.4
+
+Package: python3-crmngr
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: manage a r10k-style control repository
+ command line tool to manipulate Puppetfile in a git control repository used
+ by r10k.

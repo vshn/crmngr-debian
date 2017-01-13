@@ -1,3 +1,9 @@
+crmngr (1:2.0.0-1+trusty) trusty; urgency=medium
+
+  * New upstream release. 
+
+ -- André Keller <andre.keller@vshn.ch>  Fri, 13 Jan 2017 16:42:48 +0000
+
 crmngr (2.0.0rc1-1+trusty) trusty; urgency=medium
 
   * Initial release.

@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: crmngr
-Version: 2.0.0rc1
+Version: 2.0.0
 Summary: manage a r10k-style control repository
 Home-page: https://github.com/vshn/crmngr
 Author: Andre Keller

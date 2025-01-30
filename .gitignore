@@ -1,8 +1,0 @@
-.pybuild/
-debian/debhelper-build-stamp
-debian/files
-debian/python3-crmngr.debhelper.log
-debian/python3-crmngr.postinst.debhelper
-debian/python3-crmngr.prerm.debhelper
-debian/python3-crmngr.substvars
-debian/python3-crmngr/

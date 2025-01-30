@@ -1,3 +1,9 @@
+crmngr (1:2.0.3-1+noble) noble; urgency=medium
+
+  * New upstream release, rebuild for noble 
+
+ -- André Keller <andre.keller@vshn.ch>  Thu, 30 Jan 2025 13:42:01 +0100
+
 crmngr (1:2.0.2-1+trusty) trusty; urgency=medium
 
   * New upstream release. 
